@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ **Some Of My Skills**
+ 
+ I *know* a some of **Chineese**.
+ 
+ I`m *good* at **games**.
+ 
+ I do *different* sports, like **cricket**, **football** etc: and I know a little about how to play **golf**
