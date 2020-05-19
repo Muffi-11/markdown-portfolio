@@ -1,6 +1,6 @@
 ## My favorite things to do!
--Doing sports :football:
+* Doing sports :football:
 
--Coding :computer:
+* Coding :computer:
 
--Playing games :joystick:
+* Playing games :joystick:
